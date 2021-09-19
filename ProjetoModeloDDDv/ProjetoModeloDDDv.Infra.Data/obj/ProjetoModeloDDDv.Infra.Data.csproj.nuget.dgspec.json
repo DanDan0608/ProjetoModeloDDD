@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Infra.Data\\ProjetoModeloDDDv.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\ProjetoModeloDDDv.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\ProjetoModeloDDDv.Domain.csproj",
+        "projectName": "ProjetoModeloDDDv.Domain",
+        "projectPath": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\ProjetoModeloDDDv.Domain.csproj",
+        "packagesPath": "C:\\Users\\daniel.lino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.lino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Infra.Data\\ProjetoModeloDDDv.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Infra.Data\\ProjetoModeloDDDv.Infra.Data.csproj",
+        "projectName": "ProjetoModeloDDDv.Infra.Data",
+        "projectPath": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Infra.Data\\ProjetoModeloDDDv.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\daniel.lino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.lino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\ProjetoModeloDDDv.Domain.csproj": {
+                "projectPath": "C:\\Users\\daniel.lino\\Documents\\aula-andre\\ProjetoModeloDDD\\ProjetoModeloDDDv\\ProjetoModeloDDDv.Domain\\ProjetoModeloDDDv.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
