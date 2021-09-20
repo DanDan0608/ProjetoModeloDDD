@@ -1,10 +1,9 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace ProjetoModeloDDDv.Domain.Entities
 {
-    class Cliente
+    public class Cliente
     {
         // Mapeando as entidades, que estão presentes no banco
         public int CLienteId { get; set; }
@@ -13,7 +12,7 @@ namespace ProjetoModeloDDDv.Domain.Entities
         public string Email{ get; set; }
         public DateTime DataCadastro { get; set; }
         public bool Ativo{ get; set; }
-        public IEnumerable<Produto> Produtos{ get; set; }
+        public IEnumerable<Produto> Produtos { get; set; }
 
 
         public bool ClienteEspecial(Cliente Cliente) 

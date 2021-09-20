@@ -2,7 +2,7 @@
 
 namespace ProjetoModeloDDDv.Domain.Entities
 {
-    class Produto
+    public class Produto
     {
         // Mapeando as entidades do Produto, note que possui até um FK de Cliente
         public int ProdutoID{ get; set; }
