@@ -1,0 +1,14 @@
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\obj\Debug\ProjetoModeloDDDv.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\obj\Debug\ProjetoModeloDDDv.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\ProjetoModeloDDDv.Infra.Data.dll.config
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\ProjetoModeloDDDv.Infra.Data.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\ProjetoModeloDDDv.Infra.Data.pdb
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\ProjetoModeloDDDv.Domain.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\ProjetoModeloDDDv.Domain.pdb
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\obj\Debug\ProjetoModeloDDDv.Infra.Data.csproj.CopyComplete
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\obj\Debug\ProjetoModeloDDDv.Infra.Data.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Infra.Data\obj\Debug\ProjetoModeloDDDv.Infra.Data.pdb

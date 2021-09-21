@@ -84,3 +84,10 @@ C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\Pro
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\obj\Debug\ProjetoModeloDDDv.MVC.csproj.CopyComplete
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\obj\Debug\ProjetoModeloDDDv.MVC.dll
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\obj\Debug\ProjetoModeloDDDv.MVC.pdb
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\ProjetoModeloDDDv.Domain.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\ProjetoModeloDDDv.Infra.Data.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\EntityFramework.dll
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\ProjetoModeloDDDv.Domain.pdb
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\ProjetoModeloDDDv.Infra.Data.pdb
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\ProjetoModeloDDDv.Infra.Data.dll.config
+C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.MVC\bin\EntityFramework.xml
