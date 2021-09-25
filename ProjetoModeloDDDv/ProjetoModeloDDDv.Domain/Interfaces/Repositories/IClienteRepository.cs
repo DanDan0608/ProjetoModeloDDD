@@ -1,6 +1,6 @@
 ﻿using ProjetoModeloDDDv.Domain.Entities;
 
-namespace ProjetoModeloDDDv.Domain.Interfaces
+namespace ProjetoModeloDDDv.Domain.Interfaces.Repositories
 {
     public interface IClienteRepository : IRepositoryBase<Cliente>
     {
