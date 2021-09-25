@@ -1,6 +1,6 @@
 ﻿
 using ProjetoModeloDDDv.Domain.Entities;
-using ProjetoModeloDDDv.Domain.Interfaces;
+using ProjetoModeloDDDv.Domain.Interfaces.Repositories;
 
 namespace ProjetoModeloDDDv.Infra.Data.Repositories
 {
