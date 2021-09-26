@@ -1,2 +1,2 @@
 # ProjetoModeloDDD
-Projeto voltado ao primeiro projeto usando o Domain Driven Design
+Projeto voltado para aprender o modelo de Design DDD, o Domain Driven Design
