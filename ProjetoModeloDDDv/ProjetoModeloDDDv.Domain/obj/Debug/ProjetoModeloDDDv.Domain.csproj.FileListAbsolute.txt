@@ -1,6 +1,5 @@
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\bin\Debug\ProjetoModeloDDDv.Domain.dll
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\bin\Debug\ProjetoModeloDDDv.Domain.pdb
-C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\obj\Debug\ProjetoModeloDDDv.Domain.csproj.AssemblyReference.cache
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\obj\Debug\ProjetoModeloDDDv.Domain.csproj.CoreCompileInputs.cache
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\obj\Debug\ProjetoModeloDDDv.Domain.dll
 C:\Users\daniel.lino\Documents\aula-andre\ProjetoModeloDDD\ProjetoModeloDDDv\ProjetoModeloDDDv.Domain\obj\Debug\ProjetoModeloDDDv.Domain.pdb
